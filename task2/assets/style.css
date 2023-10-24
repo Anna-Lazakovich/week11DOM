@@ -1,0 +1,25 @@
+body {
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-left: 50%;
+}
+
+.button {
+  background-color: darkgreen;
+  color: antiquewhite;
+}
+
+ul {
+  margin-bottom: 1.5rem;
+}
+
+.active {
+	text-decoration: line-through;
+}
+
+.pr {
+  margin-top: 20px;
+}
