@@ -14,7 +14,7 @@ button.addEventListener('click', createTask);
 
 
 list.addEventListener('click', function checkTask(evt) {
-	if (evt.target.tagName === 'li') {
+	if (evt.target.tagName === 'LI') {
 	  evt.target.classList.toggle('active');
 	}
   });
